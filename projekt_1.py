@@ -1,5 +1,5 @@
 '''
-projekt_.py: první projekt do Engeto online Python Akademie
+projekt_1.py: první projekt do Engeto online Python Akademie
 
 author = Jana Wolfová
 
